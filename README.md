@@ -1,6 +1,6 @@
 <div align="center">
 
-## NixOS 🟰 Best ❄️ NixOS Configs
+## Rashomon 🟰 Best ❄️ NixOS Configs
 
 Rashomon is a simple way of reproducing my configuration on any NixOS system.
 This includes the wallpaper, scripts, applications, config files, and more.
