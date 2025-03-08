@@ -26,22 +26,6 @@ This includes the wallpaper, scripts, applications, config files, and more.
 
 ### ⬇️ Install
 
-#### 📜 Script:
-
-Simply copy this and run it:
-
-```
-nix-shell -p git curl
-```
-
-Then:
-
-```
-sh <(curl -L https://gitlab.com/Zaney/zaneyos/-/raw/main/install-zaneyos.sh)
-```
-
-#### 🦽 Manual:
-
 Run this command to ensure Git & Vim are installed:
 
 ```
